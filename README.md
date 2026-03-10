@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Prakash (adityasrc) 👋
 
-📍 India | ⚙️ Software Engineer | 🚀 Building [Flowboard](https://github.com/adityasrc/flowboard)
+📍 India | ⚙️ Aspiring Software Engineer | 🚀 Building [Flowboard](https://github.com/adityasrc/flowboard)
 
 🌐 Portfolio — [adityaprakash.me](https://adityaprakash.me)
 
@@ -27,10 +27,6 @@ I’m focused on building **Flowboard** — a tool for creating modern, dynamic,
 ---
 
 ### 📊 My GitHub Journey
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasrc&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasrc&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasrc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasrc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
