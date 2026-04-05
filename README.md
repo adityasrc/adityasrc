@@ -1,7 +1,6 @@
 # Hi, I'm Aditya Prakash (adityasrc) 👋
 
-📍 India | ⚙️ Aspiring Software Engineer | 🚀 Building [Flowboard](https://github.com/adityasrc/flowboard)
-
+📍 India | ⚙️ Aspiring Software Engineer
 🌐 Portfolio — [adityaprakash.me](https://adityaprakash.me)
 
 ---
@@ -12,11 +11,6 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-### 🚀 Currently working on
-I’m focused on building **Flowboard** — a tool for creating modern, dynamic, and full-stack applications with an expressive, fast workflow.
 
 ---
 
